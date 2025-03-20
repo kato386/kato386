@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cergunes18@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-yusuf-erg%C3%BCne%C5%9F-4012a1b5/](https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-yusuf-erg%C3%BCne%C5%9F-4012a1b5/)
+- 📄 you can check our project that helps undergraduate students to select their major and chat with api that using Turkey University data. https://github.com/a-guler/edu-advisor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
